@@ -38,6 +38,9 @@ country, cast, director, tagline, keywords, genres, release date, date added, ra
 runtime. Which provides us with info about the highest profits and best and most
 convenient investment opportunities, and other interesting stuff about the film industry.
 
+Preprocessing and merging of the datasets was done in Python (DataVizProj_Preprocessing.ipynb)
+Data Visualization was done in R (vis1.R)
+
 Link for 1st dataset:
 https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda/notebook#Top-Duration
 Link for 2nd dataset:
