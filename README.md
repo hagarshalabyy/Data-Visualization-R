@@ -2,8 +2,8 @@
 
 I conducted this exploratory data analysis and visualization to the merged datasets to provide useful insights to the production companies: to choose where they should invest their money, filmmakers: to have an overview and good understanding of the industry they’re working in, and viewing audiences in general: to recommend which movies they should watch.
 
-There are five primary problems that are imposed that we’re trying to solve, which are:
-1) How much revenue does each month generate ?
+There are four primary problems that are imposed that we’re trying to solve, which are:
+1) How can the release month affect the revenue generated ?
   And which month is the most revenue generating for each respective genre ? |
   Interaction: Most revenue generating month for each respective genre.
   Plot : Raster Plot, Why this plot : Because it is a simple method to visually examine 
@@ -13,17 +13,12 @@ There are five primary problems that are imposed that we’re trying to solve, w
   Interaction : Top 5 movies that generated revenue for each respective filmmaker.
   Plot : Pie Chart , Why this plot : Because pieces of the graph are proportional to the
   fraction of the whole category.
-3) Which genres are popular the most with the movie goers? Or in other words: what
-  movie genres generate the most revenue? | Interaction: top ten rated movies for
-  each genre.
-  Plot : Lollipop Plot, Why this plot : Because it shows the relationship between a
-  numeric and a categorical variable.
-4) Does the duration time or runtime of the film vary through the years? Do the
+3) Does the duration time or runtime of the film vary through the years? Do the
   runtimes of the movies get shorter? Does it get longer? | Interaction: sum of
   revenue of movies throughout the years with respect to the runtime.
   Plot : Scatter Plot, Why this plot : Because it’s a mathematical diagram that uses
   cartesian coordinates to display values of two variables for a set of data.
-5) Which genres are the most popular in each respective country? | Interaction : sum
+4) Which genres are the most popular in each respective country? | Interaction : sum
   of the revenue.
   Plot : Bar Plot , Why this plot : Because it presents categorical data with rectangular
   bars with heights or lengths proportional to the value that they represent.
